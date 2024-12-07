@@ -2,7 +2,7 @@
 <html lang="en">
 
   <?php include_once("includes/head.php");?>
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
 <body>
 
   <!-- ======= Hero Section ======= -->
